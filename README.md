@@ -1,2 +1,4 @@
-# multiverse-binder
-Test binder using multiverse-k8s image
+# Multiverse Binder
+
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/v2/gh/javierluraschi/multiverse-binder/master)
+
