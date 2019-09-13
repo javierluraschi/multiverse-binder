@@ -1,1 +1,1 @@
-FROM jluraschi:multiverse-k8s
+FROM jluraschi/multiverse-k8s:latest
